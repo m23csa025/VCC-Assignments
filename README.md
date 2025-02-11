@@ -1,4 +1,4 @@
-# VCC-Assignments 01 
+# VCC-Assignment 01 
 Virtualisation and Cloud Computing (VCC) Assignments of M23CSA025 @IITJ
 
 Objective:
